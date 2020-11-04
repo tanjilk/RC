@@ -1,2 +1,2 @@
-# Redes-de-Comunica-o
+# Redes de Comunicação
 Redes de Comunicação - RC
